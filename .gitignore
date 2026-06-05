@@ -4,6 +4,5 @@ package.json
 README.md
 server.js
 config/db.js
-controllers/productoController.js
 models/Producto.js
 routes/productos.js
