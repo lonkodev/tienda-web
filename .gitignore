@@ -2,9 +2,4 @@ node_modules/
 package-lock.json
 package.json
 README.md
-server.js
-config/db.js
-models/Producto.js
-routes/productos.js
-public/js/
-controllers/productosController.js
+
