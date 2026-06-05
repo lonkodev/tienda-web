@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+package.json
+README.md
+server.js
+config/db.js
+controllers/productoController.js
+models/Producto.js
+public/js/productos.js
+routes/productos.js
